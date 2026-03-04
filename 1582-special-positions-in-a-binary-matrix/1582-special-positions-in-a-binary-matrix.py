@@ -1,7 +1,6 @@
 class Solution:
     def numSpecial(self, mat: List[List[int]]) -> int:
-        m=len(mat)
-        n=len(mat[0])
+        m,n=len(mat),len(mat[0])
         row=[0]*m
         col=[0]*n
         for i in range(m):
