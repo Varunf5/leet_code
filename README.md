@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
