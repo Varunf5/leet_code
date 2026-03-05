@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Varunf5/leet_code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varunf5/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Varunf5/leet_code/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Varunf5/leet_code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 ## Memoization
 |  |
