@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
 | [1791-find-center-of-star-graph](https://github.com/Varunf5/leet_code/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
