@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Varunf5/leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunf5/leet_code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunf5/leet_code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## String Matching
 |  |
 | ------- |
