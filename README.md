@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/Varunf5/leet_code/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
