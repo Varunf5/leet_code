@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Varunf5/leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunf5/leet_code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunf5/leet_code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Varunf5/leet_code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## String Matching
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunf5/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Varunf5/leet_code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunf5/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Varunf5/leet_code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
