@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Varunf5/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0994-rotting-oranges](https://github.com/Varunf5/leet_code/tree/master/0994-rotting-oranges) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
+| [0994-rotting-oranges](https://github.com/Varunf5/leet_code/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Varunf5/leet_code/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunf5/leet_code/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Varunf5/leet_code/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunf5/leet_code/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
