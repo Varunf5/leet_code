@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Varunf5/leet_code/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/Varunf5/leet_code/tree/master/0684-redundant-connection) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
 ## Hash Table
 |  |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
