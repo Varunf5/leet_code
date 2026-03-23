@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Varunf5/leet_code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
 ## Binary Search
