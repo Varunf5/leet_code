@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/Varunf5/leet_code/tree/master/0337-house-robber-iii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 ## Matrix
 |  |
