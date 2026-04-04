@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Varunf5/leet_code/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Varunf5/leet_code/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Varunf5/leet_code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/Varunf5/leet_code/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
