@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Varunf5/leet_code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
+| [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Varunf5/leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunf5/leet_code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunf5/leet_code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
