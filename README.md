@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
