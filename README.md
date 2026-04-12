@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
@@ -215,9 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Varunf5/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
