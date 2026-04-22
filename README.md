@@ -228,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Varunf5/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
