@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Varunf5/leet_code/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varunf5/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Varunf5/leet_code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Varunf5/leet_code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Varunf5/leet_code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Varunf5/leet_code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Varunf5/leet_code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Varunf5/leet_code/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
 ## Monotonic Stack
 |  |
