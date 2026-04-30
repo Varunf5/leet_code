@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Varunf5/leet_code/tree/master/0509-fibonacci-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Varunf5/leet_code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
