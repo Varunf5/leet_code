@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varunf5/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Varunf5/leet_code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Varunf5/leet_code/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Varunf5/leet_code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Varunf5/leet_code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Varunf5/leet_code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Varunf5/leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
