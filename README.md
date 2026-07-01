@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Varunf5/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varunf5/leet_code/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Varunf5/leet_code/tree/master/0416-partition-equal-subset-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Varunf5/leet_code/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 ## Trie
 |  |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Varunf5/leet_code/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Varunf5/leet_code/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
