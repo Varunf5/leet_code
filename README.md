@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Varunf5/leet_code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Varunf5/leet_code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunf5/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Varunf5/leet_code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Varunf5/leet_code/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
