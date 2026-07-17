@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Varunf5/leet_code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Varunf5/leet_code/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Varunf5/leet_code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varunf5/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Varunf5/leet_code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Varunf5/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Varunf5/leet_code/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Varunf5/leet_code/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Varunf5/leet_code/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
