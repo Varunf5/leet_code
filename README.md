@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Varunf5/leet_code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Varunf5/leet_code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3456-find-special-substring-of-length-k](https://github.com/Varunf5/leet_code/tree/master/3456-find-special-substring-of-length-k) |
+| [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
 ## String Matching
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Varunf5/leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Varunf5/leet_code/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
+| [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Varunf5/leet_code/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
+| [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
 ## Monotonic Stack
 |  |
 | ------- |
