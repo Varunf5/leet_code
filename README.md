@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Varunf5/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Varunf5/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varunf5/leet_code/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Varunf5/leet_code/tree/master/0347-top-k-frequent-elements) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Varunf5/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Varunf5/leet_code/tree/master/0347-top-k-frequent-elements) |
 ## Trie
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varunf5/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Varunf5/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Varunf5/leet_code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
