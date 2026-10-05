@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Varunf5/leet_code/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Varunf5/leet_code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/Varunf5/leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/Varunf5/leet_code/tree/master/0657-robot-return-to-origin) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Varunf5/leet_code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunf5/leet_code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Varunf5/leet_code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Varunf5/leet_code/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
