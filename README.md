@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Varunf5/leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Varunf5/leet_code/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Varunf5/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
 | [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
 ## Dynamic Programming
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Varunf5/leet_code/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Varunf5/leet_code/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Varunf5/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
