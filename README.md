@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varunf5/leet_code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Varunf5/leet_code/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Varunf5/leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Varunf5/leet_code/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Varunf5/leet_code/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Varunf5/leet_code/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Varunf5/leet_code/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Varunf5/leet_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Varunf5/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Varunf5/leet_code/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Varunf5/leet_code/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Varunf5/leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Varunf5/leet_code/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Varunf5/leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Varunf5/leet_code/tree/master/0347-top-k-frequent-elements) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Varunf5/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Varunf5/leet_code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
