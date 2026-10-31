@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Varunf5/leet_code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Varunf5/leet_code/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Varunf5/leet_code/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Varunf5/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Varunf5/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
 | [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/Varunf5/leet_code/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Varunf5/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Varunf5/leet_code/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Varunf5/leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Varunf5/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Graph Theory
 |  |
 | ------- |
