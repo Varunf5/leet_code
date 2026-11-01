@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Varunf5/leet_code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Varunf5/leet_code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Varunf5/leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Varunf5/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0739-daily-temperatures](https://github.com/Varunf5/leet_code/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Varunf5/leet_code/tree/master/0994-rotting-oranges) |
 | [1402-reducing-dishes](https://github.com/Varunf5/leet_code/tree/master/1402-reducing-dishes) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Varunf5/leet_code/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Varunf5/leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Varunf5/leet_code/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Varunf5/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Varunf5/leet_code/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Varunf5/leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Varunf5/leet_code/tree/master/3783-mirror-distance-of-an-integer) |
