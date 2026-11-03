@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Varunf5/leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Varunf5/leet_code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunf5/leet_code/tree/master/3643-flip-square-submatrix-vertically) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Varunf5/leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3921-score-validator](https://github.com/Varunf5/leet_code/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Varunf5/leet_code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Varunf5/leet_code/tree/master/0509-fibonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Varunf5/leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Varunf5/leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Varunf5/leet_code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
